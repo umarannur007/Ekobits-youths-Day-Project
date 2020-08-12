@@ -1,12 +1,12 @@
 # Ekobits Youth Day Challenge"
 
-![alt text][desktop]
+![Desktop view][desktop]
 
-[desktop]: https://github.com/umarannur007/Ekobits-youths-Day-Project/blob/master/fuT800urx2.gif?raw=true "Desktop view"
+[desktop]: https://github.com/umarannur007/Ekobits-youths-day-project/blob/master/WbGytjJkJl.gif?raw=true "Desktop view"
 
-![alt text][mobile]
+![Mobile View][mobile]
 
-[mobile]: https://github.com/umarannur007/Ekobits-youths-Day-Project/blob/master/s68fBpdmPD.gif?raw=true "Mobile view"
+[mobile]: https://raw.githubusercontent.com/umarannur007/Ekobits-youths-day-project/master/DEuff4cYJ7.gif?raw=true "Mobile view"
 
 ## Table of contents
 * [General info](#general-info)
